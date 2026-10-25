@@ -1,0 +1,29 @@
+.changed-by-id {
+    background-color: #ad1457;
+    color: #ffffff;
+}
+
+.changed-by-query {
+    background-color: #f8bbd0;
+    color: #880e4f;
+}
+
+body {
+    background-color: #fff0f5;
+}
+
+#buttons button {
+    background-color: #ad1457;
+    color: #ffffff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+#buttons button:hover {
+    background-color: #c2185b;
+}
+
+#images img {
+    margin: 0 10px 10px 0;
+}
